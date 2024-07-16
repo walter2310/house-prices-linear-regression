@@ -15,7 +15,7 @@ He elegido el dataset de precios de viviendas en California, disponible en Kaggl
 El modelo de regresión lineal permite predecir el precio de una vivienda basado en una serie de atributos de entrada. Este enfoque proporciona una forma sencilla y efectiva de relacionar las características de una propiedad con su valor de mercado.
 
 # Proceso
-Empecé este proyecto con concocimientos bastante básicos sobre Data science y Machine learning. Sin embargo, a lo largo de los días, investigué y aprendí mucho, lo cual fue una experiencia muy emocionante al introducirme en un área totalmente nueva para mí. Uno de los retos que encontré fue comprender las correlaciones entre las características del dataset y cómo podía generar nuevas características que aportaran más contexto al modelo, entre otros desafíos.
+Empecé este proyecto con conococimientos bastante básicos sobre Data science y Machine learning. Sin embargo, a lo largo de los días, investigué y aprendí mucho, lo cual fue una experiencia muy emocionante al introducirme en un área totalmente nueva para mí. Uno de los retos que encontré fue comprender las correlaciones entre las características del dataset y cómo podía generar nuevas características que aportaran más contexto al modelo, entre otros desafíos.
 
 # Aprendizajes
 Durante este proyecto realmente aprendí bastantes cosas, dentro de las que quiero destacar se encuentran:
