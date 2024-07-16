@@ -12,7 +12,7 @@ def train_test_split_data(df, rstate=2, shuffle=True, stratify=None):
     y = df["median_house_value"].copy()
 
     strat = df[stratify] if stratify else None
-    x_train_set, x_test_set, y_train_set, y_test_set = train_test_split(X, y, test_size=0.2, random_state=rstate, shuffle=shuffle, stratify=strat)
+    x_train_set, x_test_set, y_train_set, y_test_set = train_test_split(X, y, test_size=0.3, random_state=rstate, shuffle=shuffle, stratify=strat)
 
     return x_train_set, x_test_set, y_train_set, y_test_set
 
